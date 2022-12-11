@@ -1,1 +1,1 @@
-https://VadimGric.github.io/rsschool-cv/
+https://VadimGric.github.io/rsschool-cv/cv
