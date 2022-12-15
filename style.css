@@ -2,8 +2,15 @@
     margin: 0;
     box-sizing: border-box;
 }
-body { background: url(https://phonoteka.org/uploads/posts/2021-05/1621665756_10-phonoteka_org-p-sero-rozovii-fon-dlya-instagram-12.jpg);
-       background-size: 100%}
+
+body {
+    background-image: url(/image/фон-11.png);
+    background-size: 100% 100%;}
+
+
+
+
+
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -16,15 +23,15 @@ body { background: url(https://phonoteka.org/uploads/posts/2021-05/1621665756_10
 }
 .contact_link {
     text-decoration: none ;
-    color: #834197a2;
+    color: #28454777;
     font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma;
+    font-family: Prompt;
     margin-left: 15px;
     
 
 }
 .contact_link:hover {
-    color: #9250a7;
+    color: #87c7c7;
     transition: all 1s;
 }
 .list {
@@ -32,9 +39,73 @@ body { background: url(https://phonoteka.org/uploads/posts/2021-05/1621665756_10
     margin: 20px 0;
 }
 
+h1 {
+    font-size: 70px;
+    margin-top: 170px;
+    margin-left: 200px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(134, 217, 223, 0.829);
+    
+  }
+.vs {
+    display: flex;
+}
+
+.position {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+
+}
+
+.contact {
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 170px;
+    margin-left: 200px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(134, 217, 223, 0.829);
+    
+  }
+
+  .h2_1 {
+     color: #535757;
+     font-size: 20px;
+     margin-left: 100px;}
+
+ 
+
+.line2 {
+    height: 2px;
+    width: 100%;
+    background: #87c7c79f;
+    margin-bottom: -150px;
+    
+}
+
+.h2_2 {
+    font-size: 70px;
+    margin-top: 170px;
+    margin-left: 80px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(134, 217, 223, 0.829);
+    color: #000000d0;
+  }
+  .text1{
+    font-size: 30px;
+    margin-left: 90px;
+  }
 
 
-
+.Summarys {
+    margin-top: -100px;
+}
 
 
 
@@ -47,12 +118,13 @@ body { background: url(https://phonoteka.org/uploads/posts/2021-05/1621665756_10
 
 
 .avatar img {
-    width: 300px;
-    height: 300px;
-    margin-left:200px;
-    border-radius: 100%;
-    border: 3px solid #83419765;
-    
-    filter: drop-shadow(3px 5px 5px rgba(184, 83, 184, 0.575));
+    margin-top: 100px;
+    width: 230px;
+    height: 230px;
+    margin-left:100px;
+    border-block: 100%;
+    border: 3px solid #85c0c283;
+    box-shadow: 0 0 20px rgba(134, 217, 223, 0.829);
+    filter: drop-shadow(3px 5px 5px rgba(83, 172, 184, 0.212));
     background: none;
 }
