@@ -4,9 +4,11 @@
 }
 
 body {
-    background-image: url(/image/фон-11.png);
-    background-size: 100% 100%;}
+    background-color: rgb(250, 238, 215);
+    background-size: 100%;
+    background-position: 97px;
 
+}
 
 
 
@@ -45,10 +47,15 @@ h1 {
     margin-left: 200px;
     font-family: Audiowide;
     text-shadow: 0 0 20px rgba(134, 217, 223, 0.829);
+    color: #000000d0
     
   }
 .vs {
     display: flex;
+    background: url(/image/pngwing.com\ \(1\).png) no-repeat;
+    background-size: 120%;
+    
+    margin-left: 60px;
 }
 
 .position {
@@ -60,8 +67,11 @@ h1 {
 
 .contact {
     font-size: 50px;
-    margin-top: 10px;
+    margin-top: 0.1px;
     margin-left: 60px;
+    background: url(/image/transparent-purple-violet-text-pink-logo-purple-png-images-free-png-library5dae74af6887f1.8086683415717142234282.png) no-repeat;
+    background-size: 1000px;
+    background-position: bottom -70px right -400px;
 
 }
 
@@ -82,10 +92,10 @@ h2 {
  
 
 .line2 {
-    height: 2px;
+    height: 3px;
     width: 100%;
-    background: #87c7c79f;
-    margin-bottom: -150px;
+    background: #80c5c5b2;
+    margin-bottom: -130px;
     
 }
 
@@ -100,11 +110,90 @@ h2 {
   .text1{
     font-size: 30px;
     margin-left: 90px;
+    margin-top: 60px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(60, 61, 61, 0.76);
   }
 
 
 .Summarys {
     margin-top: -100px;
+    background: url(/image/icons8-круто-80.png) no-repeat;
+    background-size: 100px;
+    background-position: bottom 200px right 600px;
+
+}
+
+.linhDev {
+    text-decoration: none ;
+    color: #000000;
+}
+.linhDev:hover {
+    color: #356161;
+    transition: all 1s;
+}
+
+
+
+.list_1{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(60, 61, 61, 0.692);
+
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.829);
+}
+    
+
+
+
+.h3_1 {
+    color: #535757;
+     font-size: 30px;
+     margin-left: 150px;
+}
+
+.list_2 {
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(60, 61, 61, 0.692);
+    list-style: none;
+
+
+}
+
+.text2 {
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: 60px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(47, 245, 29, 0.76);
+   
+
+}
+
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(241, 209, 148);
+    color: white;
+    
+}
+
+.yers {
+    font-size: 100px;
 }
 
 
@@ -117,14 +206,18 @@ h2 {
 
 
 
+
+
+
+
 .avatar img {
-    margin-top: 100px;
-    width: 230px;
-    height: 230px;
+    margin-top: 90px;
+    width: 240px;
+    height: 240px;
     margin-left:100px;
-    border-block: 100%;
-    border: 3px solid #85c0c283;
-    box-shadow: 0 0 20px rgba(134, 217, 223, 0.829);
-    filter: drop-shadow(3px 5px 5px rgba(83, 172, 184, 0.212));
+    
+    
+    
+    filter: drop-shadow(3px 5px 5px rgba(73, 72, 71, 0.945));
     background: none;
 }
