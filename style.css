@@ -4,10 +4,10 @@
 }
 
 body {
-    background-color: rgb(250, 238, 215);
+    background-color: #faeed7;
     background-size: 100%;
-    background-position: 97px;
-
+    
+    
 }
 
 
@@ -51,11 +51,16 @@ h1 {
     
   }
 .vs {
-    display: flex;
-    background: url(../image/pngwing.com\ \(1\).png) no-repeat;
-    background-size: 120%;
     
+    border: 1px solid rgba(0, 0, 0, 0.233);
+    box-shadow: 0px 0px 15px 5px #967a47; 
+    display: flex;
+    background: url(../image/pngwing.png) no-repeat;
+    background-size: 120%;
+    filter: blur(1.5rem);
+    filter: drop-shadow(3px 5px 5px rgb(170, 168, 168));
     margin-left: 60px;
+    
 }
 
 .position {
@@ -196,7 +201,6 @@ h3 {
     font-size: 100px;
     font-family: Audiowide;
 }
-
 
 
 
