@@ -52,7 +52,7 @@ h1 {
   }
 .vs {
     display: flex;
-    background: url(/image/pngwing.com\ \(1\).png) no-repeat;
+    background: url(image/pngwing.com\ \(1\).png) no-repeat;
     background-size: 120%;
     
     margin-left: 60px;
@@ -69,7 +69,7 @@ h1 {
     font-size: 50px;
     margin-top: 0.1px;
     margin-left: 60px;
-    background: url(/image/transparent-purple-violet-text-pink-logo-purple-png-images-free-png-library5dae74af6887f1.8086683415717142234282.png) no-repeat;
+    background: url(image/transparent-purple-violet-text-pink-logo-purple-png-images-free-png-library5dae74af6887f1.8086683415717142234282.png) no-repeat;
     background-size: 1000px;
     background-position: bottom -70px right -400px;
 
@@ -118,7 +118,7 @@ h2 {
 
 .Summarys {
     margin-top: -100px;
-    background: url(/image/icons8-круто-80.png) no-repeat;
+    background: url(image/icons8-круто-80.png) no-repeat;
     background-size: 100px;
     background-position: bottom 200px right 600px;
 
