@@ -200,8 +200,30 @@ h3 {
 .yers {
     font-size: 100px;
     font-family: Audiowide;
+    margin-top: 500px;
+    text-align: center;
 }
 
+.rss {
+    margin-top: -300px;
+    
+}
+
+.name{
+    
+    margin-top: -100px;
+    font-family: Audiowide;
+    text-shadow: 0 0 20px rgba(117, 189, 218, 0.87);
+}
+.git{
+    color: #000000;
+    font-size: 70px;
+    text-decoration: none;
+}
+
+.rss1 {
+    text-align: right;
+}
 
 
 
