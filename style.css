@@ -74,7 +74,7 @@ h1 {
     font-size: 50px;
     margin-top: 0.1px;
     margin-left: 60px;
-    background: url('../img/2.png') no-repeat;
+    background: url(../img/2.png) no-repeat;
     background-size: 1000px;
     background-position: bottom -70px right -400px;
 
@@ -123,7 +123,7 @@ h2 {
 
 .Summarys {
     margin-top: -100px;
-    background: url('../img/3.png') no-repeat;
+    background: url(../img/3.png) no-repeat;
     background-size: 100px;
     background-position: bottom 200px right 600px;
 
