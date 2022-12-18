@@ -55,7 +55,7 @@ h1 {
     border: 1px solid rgba(0, 0, 0, 0.233);
     box-shadow: 0px 0px 15px 5px #967a47; 
     display: flex;
-    background: url(../image/pngwing.png) no-repeat;
+    background: url(image/pngwing.png) no-repeat;
     background-size: 120%;
     filter: blur(1.5rem);
     filter: drop-shadow(3px 5px 5px rgb(170, 168, 168));
@@ -74,7 +74,7 @@ h1 {
     font-size: 50px;
     margin-top: 0.1px;
     margin-left: 60px;
-    background: url(../image/transparent-purple-violet-text-pink-logo-purple-png-images-free-png-library5dae74af6887f1.8086683415717142234282.png) no-repeat;
+    background: url(image/transparent-purple-violet-text-pink-logo-purple-png-images-free-png-library5dae74af6887f1.8086683415717142234282.png) no-repeat;
     background-size: 1000px;
     background-position: bottom -70px right -400px;
 
@@ -123,7 +123,7 @@ h2 {
 
 .Summarys {
     margin-top: -100px;
-    background: url(../image/icons8-круто-80.png) no-repeat;
+    background: url(image/icons8-круто-80.png) no-repeat;
     background-size: 100px;
     background-position: bottom 200px right 600px;
 
